@@ -1,10 +1,7 @@
 import { useState } from "react";
 
-const Category=()=>{
+const Category = () => {
+  return <div></div>;
+};
 
-    return(
-
-    )
-}
-
-export dfeault Category;
+export default Category;
